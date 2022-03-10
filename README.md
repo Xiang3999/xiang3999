@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🍻 Junior at 🇨🇳 [UESTC](https://www.uestc.edu.cn), _BSc Computer Science and Mathematics Double Degree_
+- ⚡ C++ / Python / JAVA.
