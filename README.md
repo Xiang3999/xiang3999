@@ -20,6 +20,7 @@ I'm Xiang WANG. Now, studying in [University of Electronic Science and Technolog
 
 - 🌱 Currently, I am studying non-intrusive ROM of parameterized electromagnetic scattering problems，to finish my last assignment in college😁.
 
+> “Your job gives you authority. Your behavior gives you respect.”      — Irwin Federman
 
 ![Xiang3999's github stats](https://github-readme-stats.vercel.app/api?username=xiang3999&count_private=true) 
 
